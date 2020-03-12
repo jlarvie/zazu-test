@@ -1,7 +1,7 @@
 {
-  "name": "zazu-template",
+  "name": "zazu-test",
   "version": "1.0.0",
-  "description": "Zazu Template for starting your own plugin.",
+  "description": "Zazu Test for some discovery with Zazu plugins.",
   "main": "zazu.js",
   "scripts": {
     "lint": "eslint .",

@@ -1,15 +1,15 @@
 {
-  "name": "zazu-template",
+  "name": "zazu-test",
   "version": "1.0.0",
-  "description": "Zazu Template for starting your own plugin.",
+  "description": "Zazu Test for discovering what we can do with Zazu plugins.",
   "blocks": {
     "input": [
       {
-        "id": "template",
+        "id": "test",
         "type": "Keyword",
-        "keyword": "template",
-        "title": "Zazu Template",
-        "subtitle": "Goto Zazu Template GitHub Repo",
+        "keyword": "test",
+        "title": "Zazu Test",
+        "subtitle": "Goto Zazu Test GitHub Repo",
         "icon": "fa-files-o",
         "connections": [
           "GoHome"
@@ -38,7 +38,7 @@
       {
         "id": "GoHome",
         "type": "OpenInBrowser",
-        "url": "https://github.com/tinytacoteam/zazu-template"
+        "url": "https://github.com/jlarvie/zazu-test"
       }
     ]
   }
