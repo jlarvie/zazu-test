@@ -1,4 +1,4 @@
-module.exports = (pluginContext) => {
+export default (pluginContext) => {
   return (name, env = {}) => {
     return new Promise((resolve, reject) => {
       resolve([
